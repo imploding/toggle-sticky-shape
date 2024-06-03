@@ -1,0 +1,13 @@
+{
+  "name": "Toggle Sticky Shape",
+  "id": "1377840729001403353",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "editorType": ["figjam"],
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  }
+}
